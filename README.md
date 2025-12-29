@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+🎯 Machine Learning & Data Analytics Enthusiast with hands-on experience in building data-driven solutions using Python. I focus on transforming raw data into meaningful insights through analysis, visualization, and predictive modeling.<br><br>🔭 Currently Working On:<br><br>🤖 End-to-end Machine Learning projects using Python<br><br>📊 Data analysis & visualization with Pandas, NumPy, Matplotlib, Seaborn<br><br>🔍 Exploratory Data Analysis (EDA) and predictive modeling on real-world datasets<br><br>🤝 Open to Collaborating On:<br><br>🚀 Machine Learning & Data Analytics projects<br><br>🧹 Data preprocessing, feature engineering, and model development<br><br>🌐 Open-source contributions in data science & analytics<br><br>🧠 Actively Improving Skills In:<br><br>📈 Model evaluation, performance tuning, and validation techniques<br><br>🗂️ Working with real-world datasets and business-oriented problems<br><br>☁️ Best practices for deploying ML models<br><br>🌱 Currently Learning:<br><br>📘 Supervised & Unsupervised Machine Learning algorithms<br><br>⚙️ Feature engineering & model optimization<br><br>📉 Data visualization & data storytelling<br><br>🗄️ SQL for data analysis<br><br>💬 Ask Me About:<br><br>🤖 Machine Learning fundamentals & workflows<br><br>📊 Data analysis pipelines<br><br>🐍 Python for data science<br><br>🔍 EDA and baseline model building<br><br>⚡ Fun Fact:<br><br>📊 I enjoy uncovering insights hidden in data<br><br>📈 I strongly believe in data-driven decision making
 
-<!--
-**shamtech-hub/shamtech-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shamby1609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sham-prakash-r) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sham de cruse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s47680768@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shamtech-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shamtech-hub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamtech-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shamtech-hub&limit=5&theme=darcula&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shamtech-hub&icon=10&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
